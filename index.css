@@ -6,5 +6,13 @@ li{
     padding: 5px;
     margin-bottom: 10px;
     border:2px solid #2C3E50;
-color:#E74C3C;
+    color:#E74C3C;
+}
+
+h1{
+    display: block;
+    vertical-align: middle;
+    font-size: 32px;
+    margin: 20px 0px;
+    background-color: #F1C40F;
 }
