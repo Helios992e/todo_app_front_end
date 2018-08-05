@@ -35,3 +35,24 @@ a{
     color: #424242;
     vertical-align: middle;
 }
+input[type=text], input[type="number"]{
+    font-size: 20px;
+    background-color: #FFF;
+    outline: none;
+    border-style: none;
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 1px #90A4AE;
+}
+div{
+    width: 60%;
+    margin: 20px auto 0px auto; 
+}
+.pomodoro-estimate{
+    font-weight: bold;
+    color: #F44336;
+    background-color: #F5F5F5;
+    border-radius: 50px;
+    font-size: 14px;
+    padding: 5px 10px 5px 10px; 
+}
