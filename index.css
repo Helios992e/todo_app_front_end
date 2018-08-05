@@ -1,13 +1,13 @@
-html{
+body{
     font-family: sans-serif
+    color: #04f486;
+    background-color: #2b7a09;
 }
 
 h1{
-    display: inline-block;
-    vertical-align: middle;
-    font-size: 32px;
-    margin: 20px 0px;
-    background-color: #F1C40F;
+    color: #105e3a;
+    text-align: center;
+    margin-top: 20px;
 }
 
 ol{
@@ -69,6 +69,6 @@ div{
     background-color: #03A9F4;
     margin-top: 10px;
 }
-#add-new-todo-button{
+#add-new-todo-button:active{
     box-shadow: 1px 1px 1px #90A4AE;
 }
