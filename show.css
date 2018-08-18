@@ -9,3 +9,35 @@ h1{
     text-align: center;
     margin-top: 20px;
 }
+#edit-todo-button{
+    font-size: 10px;
+    text-align: center;
+    color: #FFF;
+    outline: none;
+    border-style: none;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 1px #90A4AE;
+    display: block;
+    background-color: #03A9F4;
+    margin-top: 10px;
+}
+#delete-todo-button{
+    font-size: 10px;
+    text-align: center;
+    color: #FFF;
+    outline: none;
+    border-style: none;
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 2px 2px 1px #90A4AE;
+    display: block;
+    background-color: #03A9F4;
+    margin-top: 10px;
+}
+#edit-todo-button{
+box-shadow: 1px 1px 1px #90A4AE;
+}
+#delete-todo-button{
+box-shadow: 1px 1px 1px #90A4AE;
+}
